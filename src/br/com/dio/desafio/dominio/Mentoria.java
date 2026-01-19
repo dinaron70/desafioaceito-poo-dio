@@ -12,6 +12,7 @@ public class Mentoria extends Conteudo{
     }
 
     public Mentoria() {
+        super();
     }
 
     public LocalDate getData() {
